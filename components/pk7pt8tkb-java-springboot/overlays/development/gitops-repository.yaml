@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pk7pt8tkb-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/pk7pt8tkb-java-springboot-gitops
